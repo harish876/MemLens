@@ -119,4 +119,4 @@ ResLens provides CPU, memory and build statistics aiming to provide detailed inf
 
 ## Acknowledgements
 
- - We would like to acknowledge the good folks of [ResView](https://github.com/ResilientApp/ResView) for the inspiration and a reference point to start our project.
+ - We would like to acknowledge the good folks of [ResView](https://github.com/ResilientApp/ResView) for the inspiration and a reference point to start our project. 
