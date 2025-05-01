@@ -120,7 +120,7 @@ export function Explorer() {
               <DatabaseCard loading={loading} data={configData} />
               <ChainInfoCard loading={loading} data={configData} />
             </div>
-            <div className="p-4">
+            <div className="gap-4">
               <MiscellaneousDataCard loading={loading} data={configData} />
               <TransactionZoomChart />
             </div>
